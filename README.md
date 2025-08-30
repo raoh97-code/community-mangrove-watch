@@ -34,3 +34,5 @@ This platform allows citizens to **report incidents**, NGOs to **take action**, 
 - Payment gateway integration for donations
 - Contact form linked to admin inbox
 
+
+(* please visit second branch name 'frontend', open home_page and report_issue files to get the code of 2 preview pages of our website, we are currently unable to upload this project in a proper manner.)
