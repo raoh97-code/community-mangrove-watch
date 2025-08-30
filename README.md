@@ -7,7 +7,7 @@ Built as part of HackOut’25.
 - Members: Harsh Rao, Parva Khandla, Priyanka Moradiya
 
 2. Project Overview
-Mangroves act as natural barriers against storms and play a key role in carbon storage, but face increasing threats.  
+- Mangroves act as natural barriers against storms and play a key role in carbon storage, but face increasing threats.  
 This platform allows citizens to **report incidents**, NGOs to **take action**, and communities to **learn & contribute**.
 
 3. Features Implemented (Frontend for Mid Evaluation)
