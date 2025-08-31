@@ -1,14 +1,14 @@
 Community Mangrove Watch
 - A community-driven platform to protect mangrove ecosystems by reporting illegal cutting, land reclamation, dumping, and empowering NGOs & citizens.  
-Built as part of **HackOut’25**.
+Built as part of HackOut’25.
 
 1. Team Info
-- Team Name: [Your Team Name]
-- Members: [Member 1], [Member 2], [Member 3]
+- Team Name: CodeWizards
+- Members: Harsh Rao, Parva Khandla, Priyanka Moradiya
 
 2. Project Overview
 - Mangroves act as natural barriers against storms and play a key role in carbon storage, but face increasing threats.  
-This platform allows citizens to **report incidents**, NGOs to **take action**, and communities to **learn & contribute**.
+This platform allows citizens to report incidents, NGOs to take action, and communities to learn & contribute.
 
 3. Features Implemented 
 - Navigation bar with 6 options:
